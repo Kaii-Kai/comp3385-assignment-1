@@ -1,36 +1,43 @@
 body {
 	font-family: Arial, sans-serif;
 	font-size: 15px;
-	color: ;
+	color: #fbe3e8;
 	margin: 0;
 	padding: 0;
-	background-color: ;
+	background-color: #8458B3;
 }
 
 h1{
-	background-color: ;
-	color: ;
+	background-color: #d0bdf4;
+	color: white;
 	text-align: center;
 	padding: 20px;
 }
 
 h2{
-	background-color: ;
-	color: ;
+	background-color: #d0bdf4;
+	color: white;
 	text-align: center;
 	padding: 20px;
 }
 
-.section-content p {
-	max-width: ;
-	margin: ;
-	padding: ;
-	background-color: ;
+section p {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	color: #5cbdb9;
 }
 
 footer {
-	background-color: ;
-	color: ;
+	color: white;
 	text-align: center;
+}
+
+img{
+	float: right;
+	margin: 0 10px 15px ;
+	border-radius: 50%;
+	width: 200px;
+	height: 205px;
 }
 
