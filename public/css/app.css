@@ -1,0 +1,36 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	color: ;
+	margin: 0;
+	padding: 0;
+	background-color: ;
+}
+
+h1{
+	background-color: ;
+	color: ;
+	text-align: center;
+	padding: 20px;
+}
+
+h2{
+	background-color: ;
+	color: ;
+	text-align: center;
+	padding: 20px;
+}
+
+.section-content p {
+	max-width: ;
+	margin: ;
+	padding: ;
+	background-color: ;
+}
+
+footer {
+	background-color: ;
+	color: ;
+	text-align: center;
+}
+
