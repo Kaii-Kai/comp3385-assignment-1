@@ -1,36 +1,38 @@
 body {
 	font-family: Arial, sans-serif;
-	font-size: 15px;
-	color: #fbe3e8;
+	font-size: 25px;
+	color: #FFB6C1;
 	margin: 0;
-	padding: 0;
-	background-color: #8458B3;
+	padding: 40px;
+	background-color: #4B0082;
 }
+
 
 h1{
 	background-color: #d0bdf4;
 	color: white;
 	text-align: center;
-	padding: 20px;
+	padding: 15px;
 }
 
 h2{
 	background-color: #d0bdf4;
 	color: white;
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
 }
 
 section p {
 	max-width: 800px;
 	margin: 20px auto;
 	padding: 20px;
-	color: #5cbdb9;
+	
 }
 
 footer {
 	color: white;
 	text-align: center;
+	padding: 60px;
 }
 
 img{
