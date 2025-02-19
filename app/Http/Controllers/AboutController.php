@@ -6,6 +6,6 @@ use Illuminate\Http\Request;
 
 class AboutController extends Controller
 {
-    public  function show() {
-		retuen view('about');
-}
+    public function show() {
+		return view('about');
+}}
